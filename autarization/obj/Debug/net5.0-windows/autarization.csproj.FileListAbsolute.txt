@@ -1,0 +1,76 @@
+D:\Erik is-31\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.exe
+D:\Erik is-31\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.deps.json
+D:\Erik is-31\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.runtimeconfig.json
+D:\Erik is-31\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.runtimeconfig.dev.json
+D:\Erik is-31\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.dll
+D:\Erik is-31\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\ref\autarization.dll
+D:\Erik is-31\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.pdb
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.csproj.AssemblyReference.cache
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.g.cs
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\App.g.cs
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization_MarkupCompile.cache
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization_MarkupCompile.lref
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.baml
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.g.resources
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.AssemblyInfoInputs.cache
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.AssemblyInfo.cs
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.csproj.CoreCompileInputs.cache
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.dll
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\ref\autarization.dll
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.pdb
+D:\Erik is-31\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.genruntimeconfig.cache
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.exe
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.deps.json
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.runtimeconfig.json
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.runtimeconfig.dev.json
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.dll
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\ref\autarization.dll
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\bin\Debug\net5.0-windows\autarization.pdb
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.csproj.AssemblyReference.cache
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.g.cs
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\App.g.cs
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization_MarkupCompile.cache
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization_MarkupCompile.lref
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.baml
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.g.resources
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.GeneratedMSBuildEditorConfig.editorconfig
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.AssemblyInfoInputs.cache
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.AssemblyInfo.cs
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.csproj.CoreCompileInputs.cache
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.dll
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\ref\autarization.dll
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.pdb
+F:\Практические\2022\wpf\autarizatoin\autarization\autarization\obj\Debug\net5.0-windows\autarization.genruntimeconfig.cache
+D:\Erik is-31\autarizationWindows-master\autarization\bin\Debug\net5.0-windows\autarization.exe
+D:\Erik is-31\autarizationWindows-master\autarization\bin\Debug\net5.0-windows\autarization.deps.json
+D:\Erik is-31\autarizationWindows-master\autarization\bin\Debug\net5.0-windows\autarization.runtimeconfig.json
+D:\Erik is-31\autarizationWindows-master\autarization\bin\Debug\net5.0-windows\autarization.runtimeconfig.dev.json
+D:\Erik is-31\autarizationWindows-master\autarization\bin\Debug\net5.0-windows\autarization.dll
+D:\Erik is-31\autarizationWindows-master\autarization\bin\Debug\net5.0-windows\ref\autarization.dll
+D:\Erik is-31\autarizationWindows-master\autarization\bin\Debug\net5.0-windows\autarization.pdb
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.csproj.AssemblyReference.cache
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\ResourceDictionaries\ColorDictionary.baml
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\ResourceDictionaries\StyleDictionary.baml
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Windows\AdminWindow.g.cs
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.g.cs
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Windows\BuyerWindow.g.cs
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Windows\ManagerWindow.g.cs
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\App.g.cs
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization_MarkupCompile.cache
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization_MarkupCompile.lref
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Windows\AdminWindow.baml
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.baml
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Windows\BuyerWindow.baml
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Windows\ManagerWindow.baml
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.g.resources
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.AssemblyInfoInputs.cache
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.AssemblyInfo.cs
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.csproj.CoreCompileInputs.cache
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.dll
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\ref\autarization.dll
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.pdb
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.genruntimeconfig.cache
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Pages\UsersPage.g.cs
+D:\Erik is-31\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\View\Pages\UsersPage.baml

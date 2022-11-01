@@ -1,0 +1,28 @@
+﻿<Window x:Class="autarization.View.Windows.AuthorizationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:autarization.View.Windows"
+        mc:Ignorable="d"
+        Title="Окно авторизации" Height="370" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid Background="Gray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="20">
+            <TextBlock  FontSize="25" Text="Введите логин"/>
+            <TextBox x:Name="tbLogin" FontSize="25"/>
+                <TextBlock FontSize="25" Text="Введите пароль"/>
+                <PasswordBox x:Name="tbPassword" FontSize="25"/>
+
+            </StackPanel>
+        <Button x:Name="btnSingin"
+            Grid.Row="1"
+                Content="Войти"
+                Click="btnSingin_Click"/>
+        </Grid>
+    </Grid>
+</Window>
